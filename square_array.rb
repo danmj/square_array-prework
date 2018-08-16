@@ -1,4 +1,5 @@
 def square_array(array)
   # your code here
-  Math.sqrt(array.each)
+  vari = array.each
+  Math.sqrt(vari)
 end
